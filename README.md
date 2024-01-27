@@ -83,8 +83,8 @@ The project is organized as follows:
 
 - **/api/books**: Get all books.
 
-- - **/api/customers/books/{bookId}**: View book Details.
-- 
+- **/api/customers/books/{bookId}**: View book Details.
+  
 - **/api/customers/books/borrow**: Request a book for borrowing.
 
 - **/api/customers/books/borrow/{borrowRecordId}**: Borrow a requested book and its reflection on inventory.
